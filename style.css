@@ -1,7 +1,7 @@
 /* Mobile styles */
 @media screen and (max-width: 767px) {
   .small-image {
-    width: 10px;
+    width: 30px;
   }
 }
 
